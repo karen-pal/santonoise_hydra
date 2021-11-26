@@ -1,38 +1,39 @@
 .App {
   text-align: center;
+ background: rgb(75,75,83);
+background: radial-gradient(circle, rgba(75,75,83,1) 0%, rgba(255,156,156,1) 14%, rgba(78,71,71,1) 32%, rgba(192,254,174,1) 49%, rgba(87,76,76,1) 69%, rgba(136,145,255,1) 83%, rgba(107,96,96,1) 100%);
+ background: rgb(75,75,83);
+background: radial-gradient(circle, rgba(75,75,83,1) 0%, rgba(87,76,76,1) 1%, rgba(78,71,71,1) 6%, rgba(255,156,156,1) 19%, rgba(192,254,174,1) 49%, rgba(136,145,255,1) 83%, rgba(107,96,96,1) 100%);
+ background: rgb(75,75,83);
+background: radial-gradient(circle, rgba(75,75,83,1) 0%, rgba(242,92,92,1) 1%, rgba(255,255,255,1) 6%, rgba(255,156,156,1) 19%, rgba(192,254,174,1) 49%, rgba(136,145,255,1) 83%, rgba(0,0,0,1) 100%);
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+.App-logo{
+     background: rgb(255,255,255);
+background: radial-gradient(circle, rgba(255,255,255,1) 0%, rgba(255,0,0,1) 19%, rgba(38,170,0,1) 49%, rgba(0,18,240,1) 83%);
+z-index:10000;
 }
-
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+.title {
+font-family: 'Roboto Mono', monospace;
+font-size:50px;
 }
+.section-title{
+font-size:40px;
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+}
+#h1 {
+background:red;
+}
+#p {
+  font-family: "Roboto", sans-serif;
 }
 
 .App-link {
   color: #61dafb;
 }
-
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.descripcion{
+  inline-size: 50%; 
+  overflow-wrap: break-word;
+    hyphens: manual;
+    margin-left:25%;
 }
