@@ -6,7 +6,7 @@ function App() {
     <div className="App">
       <header className="App-header">
         <div  className="App-logo" alt="logo" >
-    🧬🧬GAGTTGCCGGGA∅Karen Palacio∅GAGTTGCCGGGA🧬🧬
+    🧬🧬GAGTTGCCGGGA∅ Karen Palacio ∅GAGTTGCCGGGA🧬🧬
       </div>
         <p className="title">
         Laboratorio live coding_<br />
