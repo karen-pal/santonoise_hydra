@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/karen-pal/santonoise_hydra/static/css/main.2c2849d6.chunk.css",
-    "main.js": "/karen-pal/santonoise_hydra/static/js/main.33a217ae.chunk.js",
-    "main.js.map": "/karen-pal/santonoise_hydra/static/js/main.33a217ae.chunk.js.map",
-    "runtime-main.js": "/karen-pal/santonoise_hydra/static/js/runtime-main.9e3adc4a.js",
-    "runtime-main.js.map": "/karen-pal/santonoise_hydra/static/js/runtime-main.9e3adc4a.js.map",
-    "static/js/2.1ffa6d11.chunk.js": "/karen-pal/santonoise_hydra/static/js/2.1ffa6d11.chunk.js",
-    "static/js/2.1ffa6d11.chunk.js.map": "/karen-pal/santonoise_hydra/static/js/2.1ffa6d11.chunk.js.map",
-    "static/js/3.ec15cfbb.chunk.js": "/karen-pal/santonoise_hydra/static/js/3.ec15cfbb.chunk.js",
-    "static/js/3.ec15cfbb.chunk.js.map": "/karen-pal/santonoise_hydra/static/js/3.ec15cfbb.chunk.js.map",
-    "index.html": "/karen-pal/santonoise_hydra/index.html",
-    "static/css/main.2c2849d6.chunk.css.map": "/karen-pal/santonoise_hydra/static/css/main.2c2849d6.chunk.css.map",
-    "static/js/2.1ffa6d11.chunk.js.LICENSE.txt": "/karen-pal/santonoise_hydra/static/js/2.1ffa6d11.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/karen-pal/santonoise_hydra/static/media/logo.6ce24c58.svg"
+    "main.css": "/santonoise_hydra/static/css/main.2c2849d6.chunk.css",
+    "main.js": "/santonoise_hydra/static/js/main.33a217ae.chunk.js",
+    "main.js.map": "/santonoise_hydra/static/js/main.33a217ae.chunk.js.map",
+    "runtime-main.js": "/santonoise_hydra/static/js/runtime-main.b30bce67.js",
+    "runtime-main.js.map": "/santonoise_hydra/static/js/runtime-main.b30bce67.js.map",
+    "static/js/2.1ffa6d11.chunk.js": "/santonoise_hydra/static/js/2.1ffa6d11.chunk.js",
+    "static/js/2.1ffa6d11.chunk.js.map": "/santonoise_hydra/static/js/2.1ffa6d11.chunk.js.map",
+    "static/js/3.ec15cfbb.chunk.js": "/santonoise_hydra/static/js/3.ec15cfbb.chunk.js",
+    "static/js/3.ec15cfbb.chunk.js.map": "/santonoise_hydra/static/js/3.ec15cfbb.chunk.js.map",
+    "index.html": "/santonoise_hydra/index.html",
+    "static/css/main.2c2849d6.chunk.css.map": "/santonoise_hydra/static/css/main.2c2849d6.chunk.css.map",
+    "static/js/2.1ffa6d11.chunk.js.LICENSE.txt": "/santonoise_hydra/static/js/2.1ffa6d11.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/santonoise_hydra/static/media/logo.6ce24c58.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.9e3adc4a.js",
+    "static/js/runtime-main.b30bce67.js",
     "static/js/2.1ffa6d11.chunk.js",
     "static/css/main.2c2849d6.chunk.css",
     "static/js/main.33a217ae.chunk.js"
