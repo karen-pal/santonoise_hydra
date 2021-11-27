@@ -2,7 +2,7 @@ import logo from './logo.svg';
 import './App.css';
 
 function App() {
-    console.log("deployandingggggggggggggggggggggggg")
+    console.log("Buenas buenas gente linda")
   return (
     <div className="App">
       <header className="App-header">
@@ -11,7 +11,7 @@ function App() {
       </div>
         <p className="title">
         Laboratorio live coding_<br />
-        Visuales con Hydra
+        <b>Visuales con Hydra</b>
         </p>
         <a
           className="App-link"
@@ -22,41 +22,42 @@ function App() {
         </a>
 <link href="https://fonts.googleapis.com/css2?family=Courier+Prime&family=Roboto+Mono&display=swap" rel="stylesheet"/>
       <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap" rel="stylesheet" />
+      <title>Santo Noise Hydra </title>
       </header>
       <body>
             <section>
           <h1 className="section-title">
-          info taller
+          ☞ info general 
           </h1>
               <b>Lugar:</b> La cúpula. Humberto Primo 14, depto 7. Córdoba, Argentina<br />
+              <b>Día:</b> Martes 29 de Noviembre, 2021.<br />
               <b>Horario:</b> de 10:30 a 14:30 hs.<br />
               <b>No se asumirán conocimientos previos</b><br />
               <b>Requisitos:</b> llevar compu. En lo posible, llevar zapatillas, alargadores, etc.<br /><br />
                <b>Descripción:</b> <br /><p className="descripcion">Le livecoder de visuales puede, en vivo, a través de la programación improvisada, generar juegos semánticos con el espacio y los sonidos de un evento. Puede contrastar, reforzar o resemantizar. Puede interactuar con la arquitectura, puede dirigir la mirada, y puede transmitir información con intención. También puede proyectar lindas luces de colores. <br />
       En este laboratorio se va a introducir a Hydra; el proyecto de Software Libre de Olivia Jack ( @o_jack ), en un formato vivencial, práctico y experimental. <br />
 ¿Qué implica programar visuales? ¿Qué implica hacer una performance en vivo? ¿Cómo se generan sentidos a través de la práctica? </p><br />
-                <p>El laboratorio será un ambiente libre de violencias. Se priorizarán las voces y necesidades de femeninidades y disidencias.</p>
 
             </section>
             <section>
           <h1 className="section-title">
-          apuntes de clase
+          ☞ apuntes de clase
           </h1>
-      Coming soon TM
+      <i>Coming soon TM</i>
             </section>
             <section>
           <h1 className="section-title">
-          links
+          ☞ links
           </h1>
-      Coming soon TM
+     <i> Coming soon TM</i>
             </section>
       </body>
             <footer>
           <h1 className="section-title">
-         contacto 
+         ☞ contacto 
           </h1>
         <h2>Karen Palacio</h2>
-      instagram.com/kardaver<br />
+      <a href='https://www.instagram.com/kardaver/'>instagram.com/kardaver</a> // 
       karen.palacio.1994@gmail.com<br />
             </footer>
     </div>

@@ -6,6 +6,9 @@ background: radial-gradient(circle, rgba(75,75,83,1) 0%, rgba(255,156,156,1) 14%
 background: radial-gradient(circle, rgba(75,75,83,1) 0%, rgba(87,76,76,1) 1%, rgba(78,71,71,1) 6%, rgba(255,156,156,1) 19%, rgba(192,254,174,1) 49%, rgba(136,145,255,1) 83%, rgba(107,96,96,1) 100%);
  background: rgb(75,75,83);
 background: radial-gradient(circle, rgba(75,75,83,1) 0%, rgba(242,92,92,1) 1%, rgba(255,255,255,1) 6%, rgba(255,156,156,1) 19%, rgba(192,254,174,1) 49%, rgba(136,145,255,1) 83%, rgba(0,0,0,1) 100%);
+
+ background: rgb(255,255,255);
+background: radial-gradient(circle, rgba(255,255,255,1) 0%, rgba(212,125,125,1) 25%, rgba(210,255,196,1) 49%, rgba(122,127,184,1) 83%);
 }
 
 .App-logo{
@@ -32,8 +35,12 @@ background:red;
   color: #61dafb;
 }
 .descripcion{
-  inline-size: 50%; 
+  inline-size: 70%; 
   overflow-wrap: break-word;
     hyphens: manual;
-    margin-left:25%;
+    margin-left:18%;
+}
+
+#body {
+background:rgb(255,255,255);
 }
