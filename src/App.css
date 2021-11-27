@@ -34,13 +34,16 @@ background:red;
 .App-link {
   color: #61dafb;
 }
-.descripcion{
-  inline-size: 70%; 
+.descripcion {
   overflow-wrap: break-word;
     hyphens: manual;
-    margin-left:18%;
+      display: table-cell;
+  word-wrap: break-word;
 }
 
-#body {
-background:rgb(255,255,255);
+img {
+  max-width:20%;
+  height: auto;
 }
+
+

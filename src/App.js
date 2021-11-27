@@ -1,4 +1,5 @@
 import logo from './logo.svg';
+import phage from './phage.svg';
 import './App.css';
 
 function App() {
@@ -7,10 +8,10 @@ function App() {
     <div className="App">
       <header className="App-header">
         <div  className="App-logo" alt="logo" >
-    🧬🧬GAGTTGCCGGGA∅ Karen Palacio ∅GAGTTGCCGGGA🧬🧬
+    🧬∅ Karen Palacio ∅🧬
       </div>
         <p className="title">
-        Laboratorio live coding_<br />
+        Laboratorio de live coding_<br />+]+]+[+[+<br />
         <b>Visuales con Hydra</b>
         </p>
         <a
@@ -35,7 +36,7 @@ function App() {
               <b>No se asumirán conocimientos previos</b><br />
               <b>Requisitos:</b> llevar compu. En lo posible, llevar zapatillas, alargadores, etc.<br /><br />
                <b>Descripción:</b> <br /><p className="descripcion">Le livecoder de visuales puede, en vivo, a través de la programación improvisada, generar juegos semánticos con el espacio y los sonidos de un evento. Puede contrastar, reforzar o resemantizar. Puede interactuar con la arquitectura, puede dirigir la mirada, y puede transmitir información con intención. También puede proyectar lindas luces de colores. <br />
-      En este laboratorio se va a introducir a Hydra; el proyecto de Software Libre de Olivia Jack ( @o_jack ), en un formato vivencial, práctico y experimental. <br />
+      En este laboratorio se va a introducir a Hydra; el proyecto de Software Libre de Olivia Jack ( <a href='https://www.instagram.com/o_jack/' target="_blank">@o_jack</a> ), en un formato vivencial, práctico y experimental. <br />
 ¿Qué implica programar visuales? ¿Qué implica hacer una performance en vivo? ¿Cómo se generan sentidos a través de la práctica? </p><br />
 
             </section>
@@ -56,9 +57,10 @@ function App() {
           <h1 className="section-title">
          ☞ contacto 
           </h1>
-        <h2>Karen Palacio</h2>
-      <a href='https://www.instagram.com/kardaver/'>instagram.com/kardaver</a> // 
-      karen.palacio.1994@gmail.com<br />
+        <b>Karen Palacio</b> // 
+      <a href='https://www.instagram.com/kardaver/' target="_blank"> instagram.com/kardaver</a> // 
+      karen.palacio.1994@gmail.com<br /><br />GAGTTGCCGGGA<br /><br />
+      <img src={phage} alt="bacteriofago" /><br />
             </footer>
     </div>
   );
