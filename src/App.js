@@ -50,7 +50,9 @@ function App() {
           <h1 className="section-title">
           ☞ links
           </h1>
-     <i> Coming soon TM</i>
+      <a href='https://github.com/ojack/hydra' target="_blank"> Código fuente de hydra</a><br />
+      <a href='https://hydra.ojack.xyz/'  target="_blank"> Usar hydra online</a><br />
+     <i> pronto más links... TM</i>
             </section>
       </body>
             <footer>
