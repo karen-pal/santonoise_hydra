@@ -44,13 +44,14 @@ function App() {
           <h1 className="section-title">
           ☞ apuntes de clase
           </h1>
-      <i>Coming soon TM</i>
+      <a href="https://docs.google.com/presentation/d/1or4vHQNbCbXCh4Smn3_J0GQL1Rrb_k-80J3d0bqBZX4/edit?usp=sharing" target="_blank">Filminas de la clase</a><br />
+     <i> pronto más links... TM</i>
             </section>
             <section>
           <h1 className="section-title">
           ☞ links
           </h1>
-      <a href='https://github.com/ojack/hydra' target="_blank"> Código fuente de hydra</a><br />
+      <a href='https://github.com/ojack/hydra' target="_blank"> Código fuente de hydra + instrucciones de instalación </a><br />
       <a href='https://hydra.ojack.xyz/'  target="_blank"> Usar hydra online</a><br />
      <i> pronto más links... TM</i>
             </section>
