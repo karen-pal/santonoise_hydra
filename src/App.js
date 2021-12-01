@@ -53,6 +53,7 @@ function App() {
           </h1>
       <a href='https://github.com/ojack/hydra' target="_blank"> Código fuente de hydra + instrucciones de instalación </a><br />
       <a href='https://hydra.ojack.xyz/'  target="_blank"> Usar hydra online</a><br />
+      <a href='https://github.com/ojack/hydra/blob/main/docs/funcs.md'  target="_blank"> Lista de funciones/módulos de hydra + sus parámetros</a><br />
      <i> pronto más links... TM</i>
             </section>
       </body>
