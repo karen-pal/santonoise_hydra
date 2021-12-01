@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/santonoise_hydra/static/css/main.e7e4d3a5.chunk.css",
-    "main.js": "/santonoise_hydra/static/js/main.60eb0816.chunk.js",
-    "main.js.map": "/santonoise_hydra/static/js/main.60eb0816.chunk.js.map",
+    "main.js": "/santonoise_hydra/static/js/main.5473e8be.chunk.js",
+    "main.js.map": "/santonoise_hydra/static/js/main.5473e8be.chunk.js.map",
     "runtime-main.js": "/santonoise_hydra/static/js/runtime-main.b30bce67.js",
     "runtime-main.js.map": "/santonoise_hydra/static/js/runtime-main.b30bce67.js.map",
     "static/js/2.1ffa6d11.chunk.js": "/santonoise_hydra/static/js/2.1ffa6d11.chunk.js",
@@ -19,6 +19,6 @@
     "static/js/runtime-main.b30bce67.js",
     "static/js/2.1ffa6d11.chunk.js",
     "static/css/main.e7e4d3a5.chunk.css",
-    "static/js/main.60eb0816.chunk.js"
+    "static/js/main.5473e8be.chunk.js"
   ]
 }
